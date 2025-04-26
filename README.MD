@@ -63,12 +63,16 @@ Pagination
 ![Screenshot 2025-04-26 at 1.13.59 PM.png](Screenshots/Screenshot%202025-04-26%20at%201.13.59%E2%80%AFPM.png)
 
 # Database 
+
+Database Scripts
+![Screenshot 2025-04-26 at 2.47.59 PM.png](Screenshots/Screenshot%202025-04-26%20at%202.47.59%E2%80%AFPM.png)
+
 Password is encrypted
 
 ![Screenshot 2025-04-26 at 1.14.56 PM.png](Screenshots/Screenshot%202025-04-26%20at%201.14.56%E2%80%AFPM.png)
 
 Created Profiles
-
+![Screenshot 2025-04-26 at 2.35.58 PM.png](Screenshots/Screenshot%202025-04-26%20at%202.35.58%E2%80%AFPM.png)
 
 # AWS Deployment
 
